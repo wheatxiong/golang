@@ -1,4 +1,6 @@
 /**
 实现一个使用golang便携的使用protobuf协议的简易RPC框架
 测试文件中包括的是一个client端向service端写文件的过程
+protobuf官方介绍：https://github.com/google/protobuf
+中文版:http://colobu.com/2015/01/07/Protobuf-language-guide/
 */
