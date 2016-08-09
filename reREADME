@@ -1,0 +1,4 @@
+/**
+实现一个使用golang便携的使用protobuf协议的简易RPC框架
+测试文件中包括的是一个client端向service端写文件的过程
+*/
